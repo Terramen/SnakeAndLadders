@@ -1,0 +1,9 @@
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.exe
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.pdb
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csprojAssemblyReference.cache
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.exe
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.pdb
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\bin\Debug\nunit.framework.dll
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\bin\Debug\nunit.framework.xml
+C:\Users\mrdim\RiderProjects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csproj.CopyComplete
